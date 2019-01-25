@@ -11,3 +11,10 @@ Note: You may be asked to apply for access to reach to those textbooks. Please a
 1. Finished the dicussion over FD and basic plotting
 2. Assignmnet-I given (submission by 7:00 PM, 25 Jan-19)
 3. Save your individual files as : Poonam-GyanVriksh-WE12Jan-AssignmentI.xls
+
+23 & 24 Jan class we concluded discussion of General linear regression
+
+25 Jan, I gave a practical demonstration of GLR
+Assignment (Group) was given: Do GLR with all the variables of 'AirQuality' data
+The Sample code was uploaded
+
